@@ -1,6 +1,6 @@
 Created a simple Space game to experiment with pygame
 
-To run game clone repository, open main.ipynbn and run the first cell
+To run game clone repository, open main.py and run code.
 
 you will need pygame, math, and random python pakages
 
@@ -14,7 +14,6 @@ When any of the aliens reach the bottom of the screen the game will end.
 game made using instructions from the the following video:
 youtube: Pygame Tutorial for Beginners - Python Game Development Course
 https://www.youtube.com/watch?v=FfWpgLFMI7w
-
 
 Icons made by https://www.flaticon.com/authors/ddara.
 
