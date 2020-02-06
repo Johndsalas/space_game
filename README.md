@@ -12,6 +12,7 @@ Score will increase by one for each alien you hit.
 When any of the aliens reach the bottom of the screen the game will end.
 
 game made using instructions from the the following video:
+
 youtube: Pygame Tutorial for Beginners - Python Game Development Course
 https://www.youtube.com/watch?v=FfWpgLFMI7w
 
