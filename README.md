@@ -1,6 +1,6 @@
 Created a simple Space game to experiment with pygame
 
-To run game clone repository, open main.py and run code.
+To run game clone repository, open main.py, and run code.
 
 you will need pygame, math, and random python pakages
 
